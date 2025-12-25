@@ -1,0 +1,268 @@
+[
+  {
+    "shain_id": "160013",
+    "sagawa_bb": "10",
+    "sagawa_bba": "4",
+    "sagawa_bbb": "2",
+    "sagawa_bbba": "1",
+    "rinji_teate": "3000",
+    "ippan_ba": "3",
+    "ippan_bb": "2",
+    "ippan_bba": "1",
+    "ippan_bbb": "4",
+    "gokei": "28",
+    "shimei": "江頭 孝之"
+  },
+  {
+    "shain_id": "180201",
+    "rinji_teate": "69000",
+    "ippan_b": "27",
+    "gokei": "27",
+    "shimei": "中村 公一"
+  },
+  {
+    "shain_id": "180209",
+    "rinji_teate": "27000",
+    "ippan_b": "4",
+    "ippan_ba": "8",
+    "ippan_bb": "18",
+    "gokei": "30",
+    "shimei": "中西 宏二"
+  },
+  {
+    "shain_id": "180212",
+    "ippan_b": "2",
+    "ippan_ba": "4",
+    "ippan_bb": "21",
+    "gokei": "27",
+    "shimei": "津端 晋治"
+  },
+  {
+    "shain_id": "180602",
+    "lorry_b": "25",
+    "gokei": "25",
+    "shimei": "大木 茂美"
+  },
+  {
+    "shain_id": "180603",
+    "lorry_b": "20",
+    "lorry_ba": "7",
+    "gokei": "27",
+    "shimei": "高藤 久也"
+  },
+  {
+    "shain_id": "180605",
+    "yontonsha_b": "26",
+    "gokei": "26",
+    "shimei": "松本 文人"
+  },
+  {
+    "shain_id": "190213",
+    "yontonsha_a": "4",
+    "yontonsha_b": "18",
+    "yontonsha_ba": "5",
+    "gokei": "27",
+    "shimei": "楳澤 和行"
+  },
+  {
+    "shain_id": "190607",
+    "rinji_teate": "2000",
+    "lorry_b": "25",
+    "lorry_ba": "1",
+    "gokei": "26",
+    "shimei": "関根 桐人"
+  },
+  {
+    "shain_id": "200229",
+    "yontonsha_b": "27",
+    "gokei": "27",
+    "shimei": "小林 智"
+  },
+  {
+    "shain_id": "200233",
+    "yontonsha_b": "3",
+    "yontonsha_ba": "22",
+    "gokei": "25",
+    "shimei": "石井 俊之"
+  },
+  {
+    "shain_id": "210243",
+    "ippan_b": "25",
+    "ippan_ba": "1",
+    "ippan_bb": "1",
+    "gokei": "27",
+    "shimei": "菅野 牧夫"
+  },
+  {
+    "shain_id": "210609",
+    "lorry_b": "22",
+    "gokei": "22",
+    "shimei": "山口 裕介"
+  },
+  {
+    "shain_id": "220601",
+    "rinji_teate": "66000",
+    "ippan_b": "9",
+    "ippan_ba": "17",
+    "ippan_bba": "1",
+    "gokei": "27",
+    "shimei": "野原 大輔"
+  },
+  {
+    "shain_id": "220603",
+    "ippan_b": "1",
+    "ippan_ba": "7",
+    "ippan_bb": "14",
+    "ippan_bba": "5",
+    "ippan_bbb": "1",
+    "gokei": "28",
+    "shimei": "坂本 裕一"
+  },
+  {
+    "shain_id": "220608",
+    "ippan_b": "1",
+    "ippan_ba": "26",
+    "gokei": "27",
+    "shimei": "牟田 豊"
+  },
+  {
+    "shain_id": "220610",
+    "rinji_teate": "66000",
+    "ippan_b": "9",
+    "ippan_ba": "13",
+    "ippan_bb": "4",
+    "gokei": "26",
+    "shimei": "小鷲 恭平"
+  },
+  {
+    "shain_id": "220612",
+    "ippan_ba": "1",
+    "ippan_bb": "9",
+    "ippan_bba": "11",
+    "ippan_bbb": "1",
+    "gokei": "23",
+    "shimei": "神田 秀靖"
+  },
+  {
+    "shain_id": "220614",
+    "yontonsha_b": "27",
+    "gokei": "27",
+    "shimei": "天野 忠典"
+  },
+  {
+    "shain_id": "220615",
+    "rinji_teate": "6000",
+    "ippan_b": "1",
+    "ippan_ba": "3",
+    "ippan_bb": "9",
+    "ippan_bba": "6",
+    "ippan_bbb": "5",
+    "gokei": "27",
+    "shimei": "溝口 貴宏"
+  },
+  {
+    "shain_id": "230616",
+    "ippan_ba": "13",
+    "ippan_bb": "11",
+    "ippan_bba": "2",
+    "gokei": "26",
+    "shimei": "増田 将昭"
+  },
+  {
+    "shain_id": "230618",
+    "chokyori_teate": "114000",
+    "ippan_b": "22",
+    "ippan_ba": "5",
+    "gokei": "27",
+    "shimei": "相馬 秀政"
+  },
+  {
+    "shain_id": "230619",
+    "ippan_b": "2",
+    "ippan_ba": "10",
+    "ippan_bb": "14",
+    "ippan_bba": "1",
+    "gokei": "27",
+    "shimei": "大久保 洋"
+  },
+  {
+    "shain_id": "230620",
+    "ippan_b": "4",
+    "ippan_bb": "23",
+    "gokei": "27",
+    "shimei": "岩切 慎吾"
+  },
+  {
+    "shain_id": "230621",
+    "ippan_b": "19",
+    "ippan_ba": "8",
+    "gokei": "27",
+    "shimei": "神戸 俊彦"
+  },
+  {
+    "shain_id": "240623",
+    "rinji_teate": "57000",
+    "chokyori_teate": "44000",
+    "ippan_b": "13",
+    "ippan_ba": "10",
+    "ippan_bb": "3",
+    "ippan_bba": "1",
+    "gokei": "27",
+    "shimei": "関口 政章"
+  },
+  {
+    "shain_id": "240625",
+    "ippan_b": "3",
+    "ippan_ba": "23",
+    "gokei": "26",
+    "shimei": "佐藤 翼"
+  },
+  {
+    "shain_id": "240629",
+    "ippan_b": "1",
+    "ippan_ba": "21",
+    "ippan_bb": "4",
+    "gokei": "26",
+    "shimei": "安田 芳一"
+  },
+  {
+    "shain_id": "240631",
+    "rinji_teate": "63000",
+    "ippan_b": "15",
+    "ippan_ba": "10",
+    "ippan_bb": "1",
+    "ippan_bba": "1",
+    "gokei": "27",
+    "shimei": "工藤 貴幸"
+  },
+  {
+    "shain_id": "250632",
+    "rinji_teate": "3000",
+    "ippan_b": "2",
+    "ippan_ba": "1",
+    "ippan_bb": "8",
+    "ippan_bba": "10",
+    "ippan_bbb": "5",
+    "gokei": "26",
+    "shimei": "渡辺 雄次"
+  },
+  {
+    "shain_id": "250633",
+    "rinji_teate": "3000",
+    "ippan_b": "3",
+    "ippan_ba": "14",
+    "ippan_bb": "9",
+    "ippan_bba": "1",
+    "gokei": "27",
+    "shimei": "奥山 広志"
+  },
+  {
+    "shain_id": "250634",
+    "rinji_teate": "9000",
+    "ippan_b": "15",
+    "ippan_ba": "11",
+    "ippan_bb": "1",
+    "gokei": "27",
+    "shimei": "安井 直樹"
+  } 
+]
